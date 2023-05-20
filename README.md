@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, I am Lahiru Premathilaka
 #### Software Engineer
 ![Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
