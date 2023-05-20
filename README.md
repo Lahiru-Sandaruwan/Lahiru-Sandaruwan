@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Lahiru Premathilaka
 #### Software Engineer
 
-![Software Engineer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/Lahiru-Sandaruwan/Lahiru-Sandaruwan/blob/main/github-header-image.png))
+![Software Engineer]([https://github.com/Lahiru-Sandaruwan/Lahiru-Sandaruwan/blob/main/github-header-image.png])
 
 Hello, I'm  Lahiru Premathilaka  - a Software Engineer. I specialize in backend development and have a strong command of Java, SQL,NO SQL and JavaScript.
 My expertise extends to various technologies, including the Spring Framework, Hibernate, Maven, and Git. I believe in writing clean and efficient code, following best practices and design patterns to ensure maintainability and scalability.
