@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Lahiru Premathilaka
 #### Software Engineer
-![Header](./[Your header image])
+
 ![Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hello, I'm  Lahiru Premathilaka  - a Software Engineer. I specialize in backend development and have a strong command of Java, SQL,NO SQL and JavaScript.
